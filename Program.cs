@@ -8,7 +8,10 @@
             {
                 Console.WriteLine("Vivo con ello orgulloso");
             }
-          
+          static void MEESTANMATANDO()
+            {
+                Console.Write("MEESTANMATANDO AAAAAAAAAAAA")
+            }
         }
     }
 }
