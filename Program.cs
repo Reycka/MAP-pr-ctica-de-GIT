@@ -10,7 +10,7 @@
             }
           static void MEESTANMATANDO()
             {
-                Console.Write("MEESTANMATANDO AAAAAAAAAAAA")
+                Console.Write("MEESTANMATANDO AAAAAAAAAAAA SOCORRRORROROROOROROROROR")
             }
         }
     }
